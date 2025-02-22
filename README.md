@@ -3,7 +3,7 @@
 I do shit.
 
 ### 📄 Resume
-[Download Resume](./resume.pdf)
+[Download Resume](./Resume.pdf)
 
 ## 📂 Featured Repositories
 
