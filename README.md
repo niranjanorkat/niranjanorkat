@@ -1,6 +1,6 @@
 # Niranjan Orkat
 
-I do shit.
+I build things.
 
 [Resume](./Resume.pdf)
 
