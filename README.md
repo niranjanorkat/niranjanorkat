@@ -6,6 +6,9 @@ I build things.
 
 ## Repositories
 
+### [PixelRaster2D](https://github.com/niranjanorkat/PixelRaster2D) (2025)
+A pixelated rasterizer built to experiment with the creation of primitive 2D shapes, anti-aliasing techniques, and gradient-based coloring.
+
 ### [gokapiX](https://github.com/niranjankrishna-acad/gokapiX) (2025)
 An implementation of BM25 variants surveyed in "Improvements to BM25 and Language Models Examined" by Trotman et al., 2014. <br/>
 
