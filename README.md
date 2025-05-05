@@ -6,7 +6,7 @@ I build things.
 
 ## Repositories
 
-### [Eros](https://github.com/niranjanorkat/eros). (2025)
+### [Eros](https://github.com/niranjanorkat/eros) (2025)
 A private, local AI memory to help you remember the little things about the people you care about.
 
 ### [PixelRaster2D](https://github.com/niranjanorkat/PixelRaster2D) (2025)
